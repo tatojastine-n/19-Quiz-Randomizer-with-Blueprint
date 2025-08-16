@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Quiz Randomizer with Blueprint\bin\Debug\Quiz Randomizer with Blueprint.exe.config
+C:\Users\HP\source\repos\Quiz Randomizer with Blueprint\bin\Debug\Quiz Randomizer with Blueprint.exe
+C:\Users\HP\source\repos\Quiz Randomizer with Blueprint\bin\Debug\Quiz Randomizer with Blueprint.pdb
+C:\Users\HP\source\repos\Quiz Randomizer with Blueprint\obj\Debug\Quiz Randomizer with Blueprint.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Quiz Randomizer with Blueprint\obj\Debug\Quiz Randomizer with Blueprint.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Quiz Randomizer with Blueprint\obj\Debug\Quiz Randomizer with Blueprint.exe
+C:\Users\HP\source\repos\Quiz Randomizer with Blueprint\obj\Debug\Quiz Randomizer with Blueprint.pdb
